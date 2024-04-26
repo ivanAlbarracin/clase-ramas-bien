@@ -2,6 +2,11 @@ ajasj
 aksa
 sasasacc
 cccasas
+<<<<<<< HEAD
 asdasd
 asdasdasd
 asdasdads
+=======
+dasdad
+asdasd
+>>>>>>> rama-nueva5
